@@ -1,0 +1,3 @@
+Sub ClickOKOnError()
+	WpfWindow("devnamepath:=;").WpfObject("text:=Error").WpfButton("devname:=OK").highlight
+End Sub	

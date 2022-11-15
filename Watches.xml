@@ -1,0 +1,4 @@
+﻿<Properties>
+  <WatchEntry0 value="WpfWindow(&quot;text:=LYNX EDITOR&quot;,&quot;index:=0&quot;).WpfImage(&quot;devnamepath:=PART_image;;MainTabControl;MainWindow;&quot;,&quot;devname:=PART_image&quot;).Highlight" />
+  <WatchEntry1 value="WpfWindow(&quot;text:=LYNX EDITOR&quot;,&quot;index:=0&quot;).WpfObject(&quot;text:=Headline.*&quot;).Highlight" />
+</Properties>
